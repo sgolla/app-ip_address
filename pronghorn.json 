@@ -56,9 +56,5 @@
       "task": true
     }
   ],
-  "views": [],
-  "schema": {
-  "title": "cidrStr",
-  "$ref": "ipAddresses#/definitions/ipv4CIDR"
-}
+  "views": []
 }
